@@ -117,7 +117,7 @@
   :block/updated-at 1657268417383}
  {:block/name "jul 6th, 2022",
   :block/created-at 1657078668123,
-  :block/updated-at 1657268269915}
+  :block/updated-at 1657523839202}
  {:block/name "jun 10th, 2022",
   :block/created-at 1654826237134,
   :block/updated-at 1654826237134}
@@ -135,7 +135,7 @@
   :block/updated-at 1657077620466}
  {:block/name "jun 25th, 2022",
   :block/created-at 1657075956096,
-  :block/updated-at 1657078288186}
+  :block/updated-at 1657519951899}
  {:block/name "jun 26th, 2022",
   :block/created-at 1657075955983,
   :block/updated-at 1657078434428}
@@ -171,7 +171,7 @@
   :block/updated-at 1657511796678}
  {:block/name "sat, 2022/07/09",
   :block/created-at 1657517140077,
-  :block/updated-at 1657517140077}
+  :block/updated-at 1657524920793}
  {:block/name "sun, 2022",
   :block/created-at 1657507244207,
   :block/updated-at 1657507244207}
@@ -180,7 +180,7 @@
   :block/updated-at 1657507244208}
  {:block/name "sun, 2022/07/10",
   :block/created-at 1657517139966,
-  :block/updated-at 1657517139966}
+  :block/updated-at 1657524964816}
  {:block/name "todo",
   :block/created-at 1654590002579,
   :block/updated-at 1654590002579}
