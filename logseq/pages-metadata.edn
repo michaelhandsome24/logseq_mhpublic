@@ -106,6 +106,15 @@
  {:block/name "favorites",
   :block/created-at 1654590002579,
   :block/updated-at 1654590002579}
+ {:block/name "fri, 2022",
+  :block/created-at 1657865079793,
+  :block/updated-at 1657865079793}
+ {:block/name "fri, 2022/07",
+  :block/created-at 1657865079797,
+  :block/updated-at 1657865079797}
+ {:block/name "fri, 2022/07/15",
+  :block/created-at 1657865079798,
+  :block/updated-at 1657874251183}
  {:block/name "in-progress",
   :block/created-at 1654590002579,
   :block/updated-at 1654590002579}
