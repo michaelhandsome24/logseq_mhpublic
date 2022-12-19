@@ -49,12 +49,12 @@
  {:block/name "2022/12",
   :block/created-at 1670168191106,
   :block/updated-at 1670168191106}
+ {:block/name "2022/12/03",
+  :block/created-at 1670223773142,
+  :block/updated-at 1670224041710}
  {:block/name "2022/12/04",
   :block/created-at 1670168191109,
   :block/updated-at 1670679326440}
- {:block/name "2022/12/16",
-  :block/created-at 1671172336038,
-  :block/updated-at 1671173408880}
  {:block/name "2022/8",
   :block/created-at 1659515217323,
   :block/updated-at 1659515217323}
@@ -250,12 +250,6 @@
  {:block/name "sat, 2022/10/01",
   :block/created-at 1665632801246,
   :block/updated-at 1665632801246}
- {:block/name "sat, 2022/12",
-  :block/created-at 1670765427359,
-  :block/updated-at 1670765427359}
- {:block/name "sat, 2022/12/03",
-  :block/created-at 1670765427353,
-  :block/updated-at 1670765427353}
  {:block/name "sun, 2022",
   :block/created-at 1657507244207,
   :block/updated-at 1657507244207}
@@ -277,12 +271,6 @@
  {:block/name "sun, 2022/07/10",
   :block/created-at 1657517139966,
   :block/updated-at 1657524964816}
- {:block/name "sun, 2022/12",
-  :block/created-at 1670765428744,
-  :block/updated-at 1670765428744}
- {:block/name "sun, 2022/12/04",
-  :block/created-at 1670765428740,
-  :block/updated-at 1671468034415}
  {:block/name "temptable_eh",
   :block/created-at 1659807163167,
   :block/updated-at 1659807163167}
