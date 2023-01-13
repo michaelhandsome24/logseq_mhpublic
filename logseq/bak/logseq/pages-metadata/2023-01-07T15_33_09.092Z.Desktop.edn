@@ -13,6 +13,12 @@
  {:block/name "2022",
   :block/created-at 1659515217322,
   :block/updated-at 1659515217322}
+ {:block/name "2022/01",
+  :block/created-at 1673085903275,
+  :block/updated-at 1673085903275}
+ {:block/name "2022/01/07",
+  :block/created-at 1673085903278,
+  :block/updated-at 1673085991835}
  {:block/name "2022/10",
   :block/created-at 1665632801010,
   :block/updated-at 1665632801010}
@@ -82,15 +88,6 @@
  {:block/name "2022/9/30",
   :block/created-at 1665632801116,
   :block/updated-at 1665632801116}
- {:block/name "2023",
-  :block/created-at 1673597607469,
-  :block/updated-at 1673597607469}
- {:block/name "2023/01",
-  :block/created-at 1673597607476,
-  :block/updated-at 1673597607476}
- {:block/name "2023/01/13",
-  :block/created-at 1673597607480,
-  :block/updated-at 1673597727314}
  {:block/name "22_code_python",
   :block/created-at 1672383173605,
   :block/updated-at 1672383173605}
@@ -205,12 +202,6 @@
  {:block/name "fri, 2022",
   :block/created-at 1657865079793,
   :block/updated-at 1657865079793}
- {:block/name "fri, 2022/01",
-  :block/created-at 1673104395288,
-  :block/updated-at 1673104395288}
- {:block/name "fri, 2022/01/07",
-  :block/created-at 1673104395281,
-  :block/updated-at 1673104395281}
  {:block/name "fri, 2022/06",
   :block/created-at 1659515145631,
   :block/updated-at 1659515145631}
@@ -226,12 +217,6 @@
  {:block/name "fri, 2022/07/01",
   :block/created-at 1659515144920,
   :block/updated-at 1659515144920}
- {:block/name "fri, 2022/12",
-  :block/created-at 1673104397783,
-  :block/updated-at 1673104397783}
- {:block/name "fri, 2022/12/30",
-  :block/created-at 1673104397749,
-  :block/updated-at 1673597607526}
  {:block/name "in-progress",
   :block/created-at 1654590002579,
   :block/updated-at 1654590002579}
@@ -353,8 +338,8 @@
   :block/created-at 1657590228082,
   :block/updated-at 1657769649204}
  {:block/name "ukelele",
-  :block/created-at 1673104395153,
-  :block/updated-at 1673104395153}
+  :block/created-at 1673085961803,
+  :block/updated-at 1673085961803}
  {:block/name "useful site",
   :block/created-at 1654585019877,
   :block/updated-at 1654586553567}
